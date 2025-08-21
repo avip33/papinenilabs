@@ -27,7 +27,7 @@ export function MainContent() {
               <div className="border-l-2 border-gray-700 pl-4">
                 <h3 className="font-medium text-muted-foreground">More products coming soon</h3>
                 <p className="text-muted-foreground">
-                  We're working on additional apps to help simplify your digital life.
+                  We&apos;re working on additional apps to help simplify your digital life.
                 </p>
               </div>
             </div>
