@@ -7,11 +7,14 @@ export function Footer() {
               © 2025 Papineni Labs LLC
             </p>
             <div className="flex space-x-6 text-sm">
-              <a href="#" className="text-muted-foreground hover:text-foreground">
+              <a href="mailto:help@papinenilabs.com" className="text-muted-foreground hover:text-foreground">
                 Contact
               </a>
-              <a href="#" className="text-muted-foreground hover:text-foreground">
+              <a href="/privacy" className="text-muted-foreground hover:text-foreground">
                 Privacy
+              </a>
+              <a href="/terms" className="text-muted-foreground hover:text-foreground">
+                Terms
               </a>
             </div>
           </div>
