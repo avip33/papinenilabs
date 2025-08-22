@@ -25,13 +25,13 @@ export default function TermsAndConditions() {
           <ul className="list-disc pl-6 mb-6 space-y-2">
             <li><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party.</li>
             <li><strong>Application</strong> refers to <strong>Xplit</strong>, the mobile software provided by the Company.</li>
-            <li><strong>Company</strong> (referred to as "the Company", "We", "Us" or "Our") refers to <strong>Papineni Labs LLC, 840 Silver Buck Ln, Chesterfield, MO 63005</strong>.</li>
+            <li><strong>Company</strong> (referred to as &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot;) refers to <strong>Papineni Labs LLC, 840 Silver Buck Ln, Chesterfield, MO 63005</strong>.</li>
             <li><strong>Content</strong> means any text, graphics, images, data, or other material uploaded, shared, or otherwise made available through the Service by You.</li>
             <li><strong>Country</strong> refers to Missouri, United States.</li>
             <li><strong>Device</strong> means any device that can access the Service, such as a computer, cellphone, or digital tablet.</li>
             <li><strong>Service</strong> refers to the Application and associated Website.</li>
             <li><strong>Subscription</strong> means a paid plan that provides access to certain features of the Service.</li>
-            <li><strong>Terms and Conditions</strong> (also referred to as "Terms") mean this agreement between You and the Company regarding use of the Service.</li>
+            <li><strong>Terms and Conditions</strong> (also referred to as &quot;Terms&quot;) mean this agreement between You and the Company regarding use of the Service.</li>
             <li><strong>Third-party Services</strong> means services such as <strong>Stripe</strong> for payments or <strong>Supabase</strong> for authentication and data storage.</li>
             <li><strong>Website</strong> refers to <a href="https://www.papinenilabs.com" className="text-blue-600 hover:underline">https://www.papinenilabs.com</a>.</li>
             <li><strong>You</strong> means the individual accessing or using the Service, or the company or other legal entity on behalf of which such individual is accessing or using the Service.</li>
@@ -63,7 +63,7 @@ export default function TermsAndConditions() {
           <ul className="list-disc pl-6 mb-4 space-y-2">
             <li>Certain features of the Service may require payment. Payments are processed securely through third-party providers such as <strong>Stripe</strong> or through app stores (Apple App Store, Google Play).</li>
             <li>You agree to provide accurate billing information.</li>
-            <li>Subscriptions will automatically renew unless canceled in accordance with the applicable store's policies.</li>
+            <li>Subscriptions will automatically renew unless canceled in accordance with the applicable store&apos;s policies.</li>
             <li>We do not store payment card details — these are handled directly by our payment providers.</li>
           </ul>
           <p className="mb-6">
@@ -129,9 +129,9 @@ export default function TermsAndConditions() {
 
           <hr className="my-8 border-gray-300" />
 
-          <h2 className="text-2xl font-semibold mt-8 mb-4">"AS IS" Disclaimer</h2>
+          <h2 className="text-2xl font-semibold mt-8 mb-4">&quot;AS IS&quot; Disclaimer</h2>
           <p className="mb-6">
-            The Service is provided <strong>"AS IS"</strong> without warranties of any kind. We do not guarantee uninterrupted or error-free operation.
+            The Service is provided <strong>&quot;AS IS&quot;</strong> without warranties of any kind. We do not guarantee uninterrupted or error-free operation.
           </p>
 
           <hr className="my-8 border-gray-300" />
